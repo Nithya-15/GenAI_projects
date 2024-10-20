@@ -6,5 +6,6 @@ This project uses **Streamlit** as the frontend and **Google's Gemini Pro Vision
 
 The **MultiLanguage Invoice Extractor** allows users to upload an image of an invoice and ask questions based on its contents. The application leverages Google’s **Gemini 1.5 flash** model to analyze the invoice and generate intelligent responses. It is built using **Streamlit** for the user interface and **PIL** for handling image uploads.
 
-![alt text](<Screenshot 2024-10-19 at 11.50.04 PM-1.png>) 
-![alt text](<Screenshot 2024-10-19 at 11.50.15 PM-1.png>)
+![alt text](<Screenshot 2024-10-19 at 11.50.04 PM.png>) 
+
+![alt text](<Screenshot 2024-10-19 at 11.50.15 PM.png>)
