@@ -8,4 +8,6 @@ The **MultiLanguage Invoice Extractor** allows users to upload an image of an in
 
 ![alt text](<Screenshot 2024-10-19 at 11.50.04 PM.png>) 
 
+![alt text](<Screenshot 2024-10-20 at 12.07.17 AM.png>)
+
 ![alt text](<Screenshot 2024-10-19 at 11.50.15 PM.png>)
