@@ -7,3 +7,5 @@ streamlit
 langchain-groq
 pypdf
 faiss-cpu
+google-generativeai
+chromadb
