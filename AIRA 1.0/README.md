@@ -25,19 +25,19 @@ Here are some key visuals of the app:
 
 ### 1️⃣ Landing Page
 
-![Landing Page](src/assets/image.png)
+![Landing Page](image.png)
 
 ---
 
 ### 2️⃣ Chat Interface
 
-![Chat Interface](src/assets/image-1.png)
+![Chat Interface](image-1.png)
 
 ---
 
 ### 3️⃣ Smart Search
 
-![Smart Search](src/assets/image-2.png)
+![Smart Search](image-2.png)
 
 ---
 
