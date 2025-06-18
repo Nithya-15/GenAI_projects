@@ -3,6 +3,12 @@ from fastapi.middleware.cors import CORSMiddleware
 
 from app.routes import chat, documents, search
 
+from dotenv import load_dotenv
+import os
+
+load_dotenv()
+api_key = os.getenv("OPENAI_API_KEY")
+
 app = FastAPI(title="AIRA 1.0 API")
 
 # CORS setup
